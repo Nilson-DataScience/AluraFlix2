@@ -47,7 +47,7 @@ p{
     display: flex;
     justify-content: space-between;
     overflow-x: auto;
-    gap: 5px;
+    gap: 10%;
 
 }
 
