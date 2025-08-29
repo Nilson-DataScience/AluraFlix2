@@ -43,11 +43,11 @@ p{
    width: auto;
 }
 
-.categoria-video{
+.categoria-video {
     display: flex;
     justify-content: space-between;
     overflow-x: auto;
-    gap: 5px
+    gap: 5px;
 
 }
 
